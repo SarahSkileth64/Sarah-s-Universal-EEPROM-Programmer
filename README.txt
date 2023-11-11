@@ -3,3 +3,4 @@ thank you for choosing to view my EEPROM Programmer!
 this is currently a WIP and only supports the AT28HC256E-70JU-T on a PA0214C 
 will update as more pull requests come in/more EEPROMs get supported
 i know this setup kinda stinks
+this EEPROM Programmer is designed to be run off an Ardunio Mega R3 and comes in two parts. "Control" and "Base"
